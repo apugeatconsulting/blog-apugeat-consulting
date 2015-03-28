@@ -1,2 +1,1 @@
-# blog-apugeat-consulting
-Blog Apugeat Consulting
+# Blog Apugeat Consulting
